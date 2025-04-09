@@ -1,0 +1,12 @@
+{
+  "name": "Pishark",
+  "short_name": "Pishark",
+  "id": "com.example.gamename",
+  "description": "Friss immer mehr Fische und wachse!\nAber achtung vor anderen Jägern!",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
